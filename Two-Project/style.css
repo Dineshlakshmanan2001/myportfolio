@@ -364,29 +364,3 @@ h6{
 
 
 
-/*.animation{ 
-    background-color: red;
-    height: 100px;
-    width:100px;
-    border: 2px dotted yellow;
-    animation-name: super;
-    animation-duration: 3s;
-    animation-iteration-count: infinite;
-    animation-timeline: view();
-}
-@keyframes super{
-    0%{
-        height: 0px;
-        width: 0px;
-    }
-    50%{
-        height: 100px;
-        width: 100px;
-        background-color: yellow;
-    }
-    100%{
-        height: 200px;
-        width: 200px;
-        background-color: black;
-    }
-}
