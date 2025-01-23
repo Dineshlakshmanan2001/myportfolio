@@ -1,0 +1,392 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#main-div {
+    background-color: rgb(8, 8, 54);
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.option {
+    color: white;
+    display: flex;
+    padding: 8px;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-right: 80px;
+}
+
+.option:hover {
+    color: yellow;
+}
+
+p {
+    padding: 15px;
+}
+
+img {
+    height: 120px;
+    width: 130px;
+    margin-top: 38px;
+    margin-left: 30px;
+}
+
+.img2 {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-left: 200px;
+}
+
+.img2 {
+    height: 250px;
+    width: 250px;
+    margin-right: 90px;
+    margin-left: 10px;
+
+}
+
+#second {
+    background-color: rgb(8, 8, 54);
+    color: white;
+    height: 400px;
+
+}
+
+.outline {
+    display: flex;
+    border: 3px solid white;
+    height: 340px;
+    width: 85%;
+    border-radius: 80px;
+    margin-left: 96px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 20px 20px white;
+    transition-duration: 0.9s;
+}
+
+.outline:hover {
+    background-color: rgb(255, 217, 0);
+    color: black;
+    
+}
+
+p {
+    font-size: 18px;
+}
+
+.words {
+    margin-top: 55px;
+    margin-left: 60px;
+}
+
+#thrid {
+    background-color: rgb(8, 8, 54);
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    transition-duration: 2s;
+}
+
+
+.about {
+    margin-top: 95px;
+    margin-left: 10px;
+    color: yellow;
+
+}
+
+.para {
+    margin-top: 80px;
+    margin-left: 80px;
+    font-size: 30px;
+    top: 200px;
+    transition-duration: 1s;
+
+}
+
+.para:hover {
+    color: gold;
+   
+}
+
+#education {
+    background-color: rgb(8, 8, 54);
+    color: white;
+    height: 500px;
+    display: flex;
+
+
+}
+
+.edu {
+    color: yellow;
+    margin-right: 60px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+
+.box1 {
+    height: 250px;
+    width: 350px;
+    border: 3px solid white;
+    margin-top: 30px;
+    align-items: center;
+    border-radius: 50px;
+    box-shadow: 10px 10px white;
+    transition-duration: 0.9s;
+    margin-left: 100px;
+
+
+}
+
+.box1:hover {
+    background-color: yellow;
+    color: black;
+    margin-top: 1px;
+
+}
+
+.deg {
+    margin-top: 80px;
+    margin-left: 20px;
+}
+
+.deg2 {
+    margin-left: 40px;
+
+
+}
+
+.two {
+    margin-top: 80px;
+    margin-left: 45px;
+}
+
+.box2 {
+    height: 250px;
+    width: 350px;
+    border: 3px solid white;
+    margin-top: 30px;
+    border-radius: 50px;
+    box-shadow: 10px 10px white;
+    transition-duration: 0.9s;
+    margin-left: 180px;
+}
+
+.box2:hover {
+    background-color: yellow;
+    color: black;
+    margin-top: 1px;
+}
+
+
+
+
+
+#skill{
+    background-color: rgb(8, 8, 54); 
+    color: white;
+    height: 250px;
+    display: flex; 
+    
+}
+.tech{
+    margin-left: 10px;
+}
+.java{
+    display: flex;
+    font-size: 40px;
+    margin-left: 100px;
+    
+    
+}
+h6{
+    padding: 60px;
+    font-size: 35px;
+}
+.skillbox{
+    height:150px;
+    width: 70%;
+    border: 1px solid white;
+    border-radius: 80px;
+    margin-left: 150px;
+    margin-top: 30px;
+    box-shadow: 3px 3px 3px 3px lightseagreen;
+    transition-duration: 1s;
+}
+.skillbox:hover{
+    background-color: aliceblue;
+    color: darkblue;
+    
+    margin-inline: 30px;
+   
+}
+
+.java2{
+    display: flex;
+    font-size: 40px;
+    margin-left: 100px;
+    
+}
+.skillbox2{
+    height:150px;
+    width: 70%;
+    border: 1px solid white;
+    border-radius: 80px;
+    margin-left: 150px;
+    box-shadow: 3px 3px 3px 3px lightseagreen;
+    transition-duration: 1s;
+    
+
+}
+.skillbox2:hover{
+    background-color: #F1D3B2;
+    color: #A43820;
+    border-radius: 10px;
+    margin-inline-start: 40px;
+    
+}
+
+
+
+
+
+#award{
+    background-color: rgb(8, 8, 54);
+    color: white;
+    height: 500px;
+    display: flex;
+    
+    
+}
+.box3{
+    display: flex;
+   
+
+}
+.type{
+    height: 300px;
+    width: 300px;
+    border: 1px solid rgb(8, 8, 54);
+    margin-top: 100px;
+    margin-right: 50px;
+    box-shadow: 3px 3px white;
+    border-radius: 50px;
+    transition: 1s;
+    
+}
+.type:hover{
+    background-color: rgb(8, 8, 54);
+    color: white;
+    margin-top: 1px;
+    padding:35px;
+}
+.colan{
+    font-size: 50px;
+    
+}
+.typeword{
+    font-size: 30px;
+    
+}
+
+
+
+
+
+
+#last{
+    background-color:rgb(8, 8, 54);
+    color: white;
+    height: 500px;
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.address{
+    font-size: 25px;
+    
+    
+}
+.address:hover{
+    margin-bottom: 5px;
+
+    
+}
+
+.m3{
+    height: 300px;
+    width: 300px;
+    border-radius: 100px;
+    transition: 1s;
+    
+}
+.m3:hover{
+    margin-top: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.animation{ 
+    background-color: red;
+    height: 100px;
+    width:100px;
+    border: 2px dotted yellow;
+    animation-name: super;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timeline: view();
+}
+@keyframes super{
+    0%{
+        height: 0px;
+        width: 0px;
+    }
+    50%{
+        height: 100px;
+        width: 100px;
+        background-color: yellow;
+    }
+    100%{
+        height: 200px;
+        width: 200px;
+        background-color: black;
+    }
+}
